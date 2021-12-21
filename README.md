@@ -19,6 +19,8 @@ Degrau é uma plataforma de educação que conecta alunos e mentores para tratar
   - **Uma boa solução seria:**
   Uma plataforma centralizada de informações acerca de mercado de trabalho, carreira em que mentor e aluno estariam mais próximos, onde profissionais compartilhassem suas experiências na carreira profissional ou acadêmica e usuários tirassem suas dúvidas. Além de que a plataforma pudesse oferecer aos usuários a possibilidade de nivelar suas expectativas com o mercado a fim de estarem focados e estáveis com suas escolhas de carreira oferencendo parceiras com instituições de ensino comprometida em fazer aluno dar o proxímo passo de suas carreiras.
 
+  ## ⚙ Frontend
+  O Frontend do projeto pode ser visualizado nesse repositório - [Degrau - Frontend](https://github.com/aSTRonuun/FrontEnd-Degrau)
   ## 🔨 Tecnologia
 
   As Seguineste ferramentas foram usadas na construção do projeto:
